@@ -7,7 +7,7 @@ Paper title:
 Deepfake Audio Detection via MFCC Features Using Machine Learning
 
 Paper Link: 
-https://www.hindawi.com/journals/wcmc/2022/1575365/?fbclid=IwAR3Bm9y73HIWccaRWPWETpKMsDXVZrWbbGthIyszi-pe1cNmDax8d_nRilk
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9996362
 
 Group Number:
 13
